@@ -7,6 +7,7 @@ This repository contains the recipe for Chocolate Chip Cookies. This recipe was 
 
 Resources: https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/
 
+**You will find the following items in the recipe repository:**
 1. ingredients.md
 2. instructions.txt
 3. recipe.jpg 
